@@ -1,0 +1,3 @@
+for using pylint we can first download it using pip install pylint
+then use it by navigating to the directory of the code and using the following command:
+pylint PyScript.py -r y
